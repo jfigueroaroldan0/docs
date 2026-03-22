@@ -31,7 +31,7 @@ This sample post tests the followings:
 
 ### Tweet Sample
 
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
+[Enlace a Twitter eliminado por obsolescencia]
 
 {{< vs >}}
 
