@@ -1,8 +1,8 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://jfigueroaroldan0.github.io/docs/
+baseURL: "https://jfigueroaroldan0.github.io/docs/"
 
 languageCode: bn
-title: "John's Blog"
+title: "Jesús Figueroa Roldán"
 
 # Use Hugo modules to add theme
 module:
