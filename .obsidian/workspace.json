@@ -183,6 +183,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cc1cec38413ad459",
-  "lastOpenFiles": []
+  "active": "0102885787526ac8",
+  "lastOpenFiles": [
+    "hugo.yaml",
+    "public/videos/sample.mp4",
+    "public/videos"
+  ]
 }
